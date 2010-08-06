@@ -88,7 +88,7 @@ extern NSString *const kAppiraterDeclinedToRate;
  Users will need to launch the same version of the app this many times before
  they will be prompted to rate it.
  */
-#define LAUNCHES_UNTIL_PROMPT			10		// integer
+#define LAUNCHES_UNTIL_PROMPT			2		// integer
 
 /*
  'YES' will show the Appirater alert everytime. Useful for testing how your message
